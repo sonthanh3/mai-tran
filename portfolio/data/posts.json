@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "understanding-financial-statements",
+    "title": "Understanding Financial Statements: A Beginner's Guide",
+    "date": "2025-06-15",
+    "category": "Accounting",
+    "readTime": "5 min read",
+    "excerpt": "Financial statements are the backbone of any business. Learn how to read a balance sheet, income statement, and cash flow statement with confidence.",
+    "coverImage": "/images/blog-1.jpg",
+    "content": "Financial statements are the primary means by which companies communicate their financial performance to shareholders, creditors, and the public.\n\n## The Three Core Statements\n\n**Balance Sheet** — A snapshot of a company's assets, liabilities, and equity at a specific point in time. Think of it as a photograph of financial health.\n\n**Income Statement** — Shows revenues, expenses, and profit over a period. It answers the question: did we make money this quarter?\n\n**Cash Flow Statement** — Tracks the actual movement of cash in and out of the business. Profit on paper doesn't always equal cash in the bank.\n\n## Why This Matters\n\nUnderstanding these three documents gives you the power to evaluate any business, from a small startup to a Fortune 500 company. Investors, lenders, and managers all rely on these statements to make critical decisions.\n\n## Getting Started\n\nStart with the income statement — it's the most intuitive. Revenue minus expenses equals net income. From there, move to the balance sheet and finally the cash flow statement. With practice, reading financials becomes second nature."
+  },
+  {
+    "slug": "managerial-vs-financial-accounting",
+    "disabled": false,
+    "title": "Managerial vs Financial Accounting: What's the Difference?",
+    "date": "2025-06-28",
+    "category": "Accounting",
+    "readTime": "4 min read",
+    "excerpt": "Two branches of accounting serve completely different audiences. Understanding the distinction is key for any accounting student or professional.",
+    "coverImage": "/images/blog-2.jpg",
+    "content": "Accounting is not monolithic. Two major branches serve completely different purposes and audiences.\n\n## Financial Accounting\n\nFinancial accounting is outward-facing. It produces standardized reports (GAAP or IFRS) for external stakeholders — investors, regulators, creditors. The goal is comparability and transparency across companies.\n\n## Managerial Accounting\n\nManagerial accounting is inward-facing. It produces internal reports tailored for management decisions — budgeting, cost analysis, performance evaluation. There are no strict format rules; whatever helps management make better decisions is fair game.\n\n## Key Differences\n\n- **Audience**: External vs Internal\n- **Standards**: GAAP/IFRS required vs No strict rules\n- **Time focus**: Historical vs Future-oriented\n- **Frequency**: Quarterly/Annual vs As needed\n\n## Which Should You Study?\n\nBoth. Financial accounting gives you the language of business. Managerial accounting gives you the tools to run one. A well-rounded accountant understands and respects both disciplines."
+  },
+  {
+    "slug": "time-value-of-money",
+    "disabled": false,
+    "title": "The Time Value of Money Explained Simply",
+    "date": "2025-07-05",
+    "category": "Finance",
+    "readTime": "6 min read",
+    "excerpt": "A dollar today is worth more than a dollar tomorrow. This fundamental concept underpins nearly every financial decision made in business and personal finance.",
+    "coverImage": "/images/blog-3.jpg",
+    "content": "The time value of money (TVM) is arguably the most important concept in all of finance. It states that money available now is worth more than the same amount in the future.\n\n## Why Does Time Matter?\n\nMoney has earning potential. A dollar invested today can grow into more than a dollar tomorrow. This is why lenders charge interest and investors expect returns.\n\n## Present Value vs Future Value\n\n**Future Value (FV)** = PV × (1 + r)^n\n\nIf you invest $1,000 today at 5% annual interest for 3 years:\nFV = 1000 × (1.05)^3 = $1,157.63\n\n**Present Value (PV)** = FV / (1 + r)^n\n\nWhat is $1,157.63 three years from now worth today at 5%? $1,000.\n\n## Real-World Applications\n\n- **Loan decisions**: Comparing mortgage options\n- **Investment analysis**: NPV and IRR calculations\n- **Retirement planning**: How much to save today\n- **Business valuation**: Discounted cash flow (DCF) models\n\n## The Takeaway\n\nOnce you internalize TVM, you'll never look at financial decisions the same way. Every choice involving money across time is a TVM problem at its core."
+  }
+]

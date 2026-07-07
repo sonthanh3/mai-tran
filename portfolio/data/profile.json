@@ -1,0 +1,97 @@
+{
+  "name": "Mai Tran",
+  "title": "Accounting & Finance Student",
+  "university": "Quincy College",
+  "graduationYear": "Fall 2026",
+  "bio": "I am an Accounting student transitioning from Quincy College to Northeastern University in Spring 2027. Moving from small business operations and pharmacy roles into finance, I combine a passion for details and accuracy with strong customer service skills.",
+  "location": "Boston, MA",
+  "email": "tranmai.profwork@gmail.com",
+  "linkedin": "https://linkedin.com/in/maitran3",
+  "github": "",
+  "resumeUrl": "/resume.pdf",
+  "skills": [
+    "Financial Reporting",
+    "Excel & Power BI",
+    "Tax Accounting",
+    "Auditing",
+    "Cost Accounting",
+    "Corporate Finance",
+    "GAAP / IFRS",
+    "QuickBooks"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Accounting & Finance",
+      "school": "Northeastern University",
+      "period": "Incoming Spring 2027",
+      "gpa": "Updating...",
+      "highlights": ["Updating..."]
+    },
+    {
+      "degree": "Associate of Science in Accounting",
+      "school": "Quincy College",
+      "period": "Spring 2025 – Fall 2026",
+      "gpa": "3.9 / 4.0",
+      "highlights": [
+        "Relevant coursework: Accounting, Finance, Business Law, Federal Taxation"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Pharmacist Technician",
+      "company": "CVS Health",
+      "location": "Randolph, MA",
+      "type": "Part-time",
+      "period": "Feb 2026 – Present",
+      "highlights": [
+        "Input prescription details carefully to ensure accurate data entry and prevent patient confidentiality errors",
+        "Navigate healthcare billing systems to fix complex insurance issues and clarify costs for 25+ customers daily",
+        "Follow strict pharmacy regulations to maintain high compliance and keep shift error rates below 1%"
+      ],
+      "tags": [
+        "Data Entry",
+        "Excel",
+        "Customer Service",
+        "Healthcare Regulations"
+      ]
+    },
+    {
+      "title": "Bookkeeper",
+      "company": "Zen Nail Spa",
+      "location": "Braintree, MA",
+      "type": "Full-time",
+      "period": "Aug 2023 – Present",
+      "highlights": [
+        "Manage front-desk cash drawers and daily receipts to keep financial counts correct and speed up check-ins",
+        "Calculate tips, commissions, and vendor bills to run error-free payroll on time for 15+ workers",
+        "Track daily store numbers and answer pay questions to fix budget errors and stop staff disputes"
+      ],
+      "tags": [
+        "Payroll Processing",
+        "Bookkeeping",
+        "Management",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "title": "Bookkeeper",
+      "company": "Minh Trang Boutique Hotel",
+      "location": "Tân Phú, Ho Chi Minh City",
+      "type": "Full-time",
+      "period": "Oct 2018 – Aug 2023",
+      "highlights": [
+        "Manage bills and vendor contracts to keep financial books correct for a 20-room hotel",
+        "Process weekly payroll and cash drawers to eliminate manual errors and hit a 98% tracking accuracy rate",
+        "Resolve booking conflicts independently to protect guest satisfaction and raise peak-season occupancy by 10%"
+      ],
+      "tags": [
+        "Payroll Processing",
+        "Bookkeeping",
+        "Management",
+        "Vendor Management",
+        "Financial Reporting"
+      ]
+    }
+  ]
+}

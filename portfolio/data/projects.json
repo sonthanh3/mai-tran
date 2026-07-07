@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "financial-dashboard",
+    "disabled": false,
+    "title": "Personal Finance Dashboard",
+    "description": "An interactive dashboard for tracking income, expenses, and savings goals. Built with Excel and Power BI to visualize spending patterns over time.",
+    "status": "active",
+    "tags": ["Excel", "Power BI", "Data Analysis", "Budgeting"],
+    "coverImage": "/images/project-1.jpg",
+    "demoUrl": "",
+    "githubUrl": "",
+    "content": "This project involved building a comprehensive personal finance tracker using Excel for data entry and Power BI for visualization. The dashboard shows monthly income vs expenses, category breakdowns, and savings rate trends."
+  },
+  {
+    "slug": "tax-case-study",
+    "disabled": false,
+    "title": "Corporate Tax Case Study",
+    "description": "A detailed analysis of tax planning strategies for a mid-size manufacturing company, exploring deductions, credits, and entity structure optimization.",
+    "status": "active",
+    "tags": ["Tax Planning", "Corporate Finance", "Research"],
+    "coverImage": "/images/project-2.jpg",
+    "demoUrl": "",
+    "githubUrl": "",
+    "content": "An academic case study examining how a fictional manufacturing company could optimize its tax position through strategic planning, timing of deductions, and choice of entity structure."
+  },
+  {
+    "slug": "audit-simulation",
+    "disabled": false,
+    "title": "Audit Simulation Report",
+    "description": "Simulated a full audit engagement for a retail company, including risk assessment, sampling techniques, and audit documentation.",
+    "status": "progress",
+    "tags": ["Auditing", "Risk Assessment", "Internal Controls"],
+    "coverImage": "/images/project-3.jpg",
+    "demoUrl": "",
+    "githubUrl": "",
+    "content": "A semester-long project simulating a real audit engagement. Covered planning, fieldwork, and reporting phases with emphasis on identifying material misstatements and evaluating internal controls."
+  }
+]
