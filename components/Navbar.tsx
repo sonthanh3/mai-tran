@@ -71,7 +71,7 @@ export default function Navbar() {
           ))}
 
           <a
-            href="/resume.pdf"
+            href="/TranMai_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             style={{
