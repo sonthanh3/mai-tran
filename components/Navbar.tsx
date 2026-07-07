@@ -44,7 +44,7 @@ export default function Navbar() {
       >
         {/* Logo */}
         <Link
-          href="https://www.linkedin.com/in/maitran3/"
+          href="/"
           style={{ fontSize: "1.2rem", fontWeight: 700, color: "#2d2e32" }}
         >
           Mai 'Amy' 🦩
