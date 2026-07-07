@@ -44,7 +44,8 @@ export default function Navbar() {
       >
         {/* Logo */}
         <Link
-          href="/home"
+          href="/"
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
           style={{ fontSize: "1.2rem", fontWeight: 700, color: "#2d2e32" }}
         >
           Mai 'Amy' 🦩
